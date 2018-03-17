@@ -1,7 +1,7 @@
 <?php
 
 $user="root";
-$password="";
+$password=" ";
 
 
 $conn = new PDO('mysql:host=localhost;dbname=sampletest', $user, $password);
